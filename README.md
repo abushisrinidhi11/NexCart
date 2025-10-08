@@ -147,11 +147,9 @@ npm start
 
 ## 👨‍💻 Author
 
-**Saketh Pinumalla**  
+**Srinidhi Abushi**  
 Finalist – Smart India Hackathon  
 🚀 Tech Stack: Python, React, OpenCV, MySQL, Raspberry Pi  
-🔗 [LinkedIn](https://www.linkedin.com/in/sakethpinumalla/) • [GitHub](https://github.com/SakethPinumalla)
-
 ---
 
 ## 📃 License
@@ -164,3 +162,4 @@ This project is licensed under the MIT License.
 
 > **"Shop Smarter. Scan Faster. Queue Never."**  
 > — The NexCart Way 🛒✨
+
