@@ -1,0 +1,5 @@
+Product		Price	Qty
+
+ETA dishwash	$30.00	4
+
+Total: $120.00
